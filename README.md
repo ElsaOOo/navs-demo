@@ -6,7 +6,8 @@
 
 ## example
 
-<video id="document1">
+<video id="document1" controls="" preload="none" poster="/public/poster.png">
+
 <source id="webm" src="/public/Document2.webm" type="video/webm" >
 </video>
 
