@@ -6,5 +6,5 @@
 
 ## example
 
-![example-one]("./public/Document.webm")  
-![example-two]("./public/Document2.webm")
+![example-one]("public/Document.webm")  
+![example-two]("public/Document2.webm")
