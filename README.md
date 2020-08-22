@@ -6,11 +6,4 @@
 
 ## example
 
-<video id="document1" controls="" preload="none" poster="/public/poster.png">
-
-<source id="webm" src="/public/Document2.webm" type="video/webm" >
-</video>
-
-<!-- ![example-two]("public/Document2.webm") -->
-
-[![Watch the video](/public/poster.png)](/public/Document2.webm)
+![image](/public/poster.png)
